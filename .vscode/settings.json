@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "TriangleArea.C": "cpp",
+        "AreaSquare.C": "cpp",
+        "AreaCircle.C": "cpp",
+        "Assignment.C": "cpp",
+        "ArithmeticOps.C": "cpp",
+        "ModOp.C": "cpp",
+        "OpBehaviour.C": "cpp",
+        "OR.C": "cpp",
+        "BitwiseOps.C": "cpp",
+        "IF.C": "cpp",
+        "IF_ELSE.C": "cpp",
+        "IF_ELSE_IF.C": "cpp",
+        "Swtich.C": "cpp",
+        "FOR.C": "cpp",
+        "While.C": "cpp",
+        "Calculator.C": "cpp",
+        "Cal.C": "cpp",
+        "DO_WHILE.C": "cpp",
+        "Fun1.C": "cpp"
+    }
+}
