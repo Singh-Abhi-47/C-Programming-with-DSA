@@ -19,6 +19,12 @@
         "Cal.C": "cpp",
         "DO_WHILE.C": "cpp",
         "Fun1.C": "cpp",
-        "CalculatorWithFunctions.C": "cpp"
-    }
+        "CalculatorWithFunctions.C": "cpp",
+        "Auto.C": "cpp",
+        "Register.C": "cpp",
+        "Static.C": "cpp",
+        "file1.C": "cpp",
+        "file2.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
