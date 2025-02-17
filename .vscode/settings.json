@@ -18,6 +18,7 @@
         "Calculator.C": "cpp",
         "Cal.C": "cpp",
         "DO_WHILE.C": "cpp",
-        "Fun1.C": "cpp"
+        "Fun1.C": "cpp",
+        "CalculatorWithFunctions.C": "cpp"
     }
 }
