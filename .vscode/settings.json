@@ -24,7 +24,10 @@
         "Register.C": "cpp",
         "Static.C": "cpp",
         "file1.C": "cpp",
-        "file2.C": "cpp"
+        "file2.C": "cpp",
+        "DecimanlToBinary.C": "cpp",
+        "Addition.C": "cpp",
+        "Multiplication.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
