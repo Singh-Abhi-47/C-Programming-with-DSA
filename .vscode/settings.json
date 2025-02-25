@@ -27,7 +27,12 @@
         "file2.C": "cpp",
         "DecimanlToBinary.C": "cpp",
         "Addition.C": "cpp",
-        "Multiplication.C": "cpp"
+        "Multiplication.C": "cpp",
+        "Array1.C": "cpp",
+        "Array2.C": "cpp",
+        "Pointer.C": "cpp",
+        "Swap.C": "cpp",
+        "2DArray.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
