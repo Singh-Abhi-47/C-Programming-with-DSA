@@ -32,7 +32,9 @@
         "Array2.C": "cpp",
         "Pointer.C": "cpp",
         "Swap.C": "cpp",
-        "2DArray.C": "cpp"
+        "2DArray.C": "cpp",
+        "malloc.C": "cpp",
+        "calloc.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
