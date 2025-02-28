@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.c": "c",
-        "a.C": "cpp"
+        "a.C": "cpp",
+        "1DArray.C": "cpp",
+        "2DArray.C": "cpp"
     }
 }
