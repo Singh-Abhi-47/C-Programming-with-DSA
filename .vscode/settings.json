@@ -34,7 +34,8 @@
         "Swap.C": "cpp",
         "2DArray.C": "cpp",
         "malloc.C": "cpp",
-        "calloc.C": "cpp"
+        "calloc.C": "cpp",
+        "realloc.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
