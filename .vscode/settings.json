@@ -3,6 +3,18 @@
         "*.c": "c",
         "a.C": "cpp",
         "1DArray.C": "cpp",
-        "2DArray.C": "cpp"
+        "2DArray.C": "cpp",
+        "String1.C": "cpp",
+        "String2.C": "cpp",
+        "String3.C": "cpp",
+        "String4.C": "cpp",
+        "String5.C": "cpp",
+        "String6.C": "cpp",
+        "String7.C": "cpp",
+        "InputingStrings.C": "cpp",
+        "Gets().C": "cpp",
+        "Gets.C": "cpp",
+        "CharArr.C": "cpp",
+        "PtrArr.C": "cpp"
     }
 }
