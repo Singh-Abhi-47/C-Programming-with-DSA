@@ -15,6 +15,15 @@
         "Gets().C": "cpp",
         "Gets.C": "cpp",
         "CharArr.C": "cpp",
-        "PtrArr.C": "cpp"
+        "PtrArr.C": "cpp",
+        "Way1.C": "cpp",
+        "Way2.C": "cpp",
+        "Way3.C": "cpp",
+        "Input.C": "cpp",
+        "Arr_o_Struct.C": "cpp",
+        "NestedStruc.C": "cpp",
+        "PtrToStruct.C": "cpp",
+        "SelfRefrentialStructure.C": "cpp",
+        "StructVSUnion.C": "cpp"
     }
 }
